@@ -1,0 +1,58 @@
+/* --------------------------------------------------------
+Style Sheet for Website's Name : MoGo One Page Responsive Template
+version: 1.0
+last modified:
+email: aminuldev1@gmail.com
+website:
+author: Aminul Islam
+author URL: aminuldev.com
+----------------------------------------------------------*/
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+/*==========  Non-Mobile First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 993px){
+
+
+}
+
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 769px) and (max-width : 992px) {
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 298px) and (max-width : 768px) {
+    #mogo-slider .mogo-slider-title{
+        font-size: 60px;
+    }
+
+    #counting .counter{
+        width: 20%;
+    }
+    .counter .number{
+        font-size: 30px;
+    }
+    .counter .counter-text{
+        font-size: 12px;
+    }
+
+}
+
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+
+
+}
